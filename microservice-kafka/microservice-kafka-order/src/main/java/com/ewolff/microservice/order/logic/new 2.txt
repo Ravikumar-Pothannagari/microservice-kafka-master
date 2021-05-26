@@ -1,0 +1,25 @@
+Charan- Full Stack Developer
+------------------------------
+
+Java - 4
+Hibernate/JPA - 2
+Spring/Boot - 3.5
+Rest/Microservices - 4
+Angular - 
+React - 4 
+Node - 
+HTML/Javascript/Jquery - 3.5
+Junit/Mackito - 3
+Designpatterns - 3
+DB's - 3
+
+
+
+
+Cassandra, Redis
+Sonar
+PostgreSQL, pgAdmin 4
+Splunk
+Jenkins
+
+
